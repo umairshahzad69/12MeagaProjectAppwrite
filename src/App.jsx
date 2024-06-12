@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      A Blog with appwrite
+      A Blog with appwrite 
     </>
   )
 }
